@@ -1,2 +1,2 @@
-# ruter-doodling
+# Ruter doodling 
 Ruter ideas and sketches
